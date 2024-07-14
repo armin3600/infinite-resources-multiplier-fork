@@ -11,7 +11,6 @@ local function make_resource_infinite(resource)
 	end
 	-- set normal to at least minimum
 	if not resource.normal or resource.normal < resource.minimum then
-		resource.reduced_yield = true
 		resource.normal = resource.minimum
 	end
 	-- change sprite to always show biggest value
