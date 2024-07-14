@@ -8,7 +8,7 @@ function fix_resources_for_surface(surface, area)
 			-- set all new resources to exactly their normal amount
 			local multiplier = 1
 			if resource.prototype.resource_category == "basic-fluid" then
-				multiplier = settings.global["fluid-yield-multiplier"].value
+				multiplier = settings.global["infinite-resources-multiplier-fork-fluid-yield-multiplier"].value
 			end
 
 			resource.initial_amount = resource.prototype.normal_resource_amount * multiplier

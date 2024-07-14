@@ -1,9 +1,16 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.4.10
+Version: 0.4.11
+  Updates:
+    Default multiplier is now 4 - matches krastorio base pump rate for crude oil (feel free to change, just a random number I came up with)
   Fixes:
-    Config option name was weird
+    Config name wasnt fixed last update
+    Crash because config option wasn't changed in control.lua
+---------------------------------------------------------------------------------------------------
+Version: 0.4.10
   Updates:
     Changed description
+  Fixes:
+    Config option name was weird
 ---------------------------------------------------------------------------------------------------
 Version: 0.4.9
   Minor Changes:
