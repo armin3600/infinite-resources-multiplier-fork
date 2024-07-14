@@ -1,9 +1,9 @@
 {
   "name": "infinite-resources-multiplier-fork",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "title": "Infinite Resources Multiplier Fork",
   "author": "sonaxaton, deltius",
-  "homepage": "",
+  "homepage": "https://mods.factorio.com/mod/infinite-resources-multiplier-fork",
   "description": "Makes all resources infinite. (now with multiplier for fluids)",
   "factorio_version": "1.1",
   "dependencies": []
