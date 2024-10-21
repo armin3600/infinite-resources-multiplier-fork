@@ -1,3 +1,2 @@
 # Infinite Resources
-
-Fork of Sonaxaton's factorio mod with a little tweak
+Fork of Sonaxaton's Factorio mod, tweaked to allow adjusting of richness of fluid patches.
